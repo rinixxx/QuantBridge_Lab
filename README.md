@@ -20,7 +20,7 @@ QuantBridge Lab welcomes collaboration with analysts, researchers, and organizat
 If you represent a company, we can analyze your business model, simulate alternative financial strategies, and provide data-backed recommendations.  
 
 
-### 💙🧰 Tools & Methods *(planned)*  
+### 💙🧰 Tools & Methods  
 🧡 Python — for quantitative modeling  
 🧡 SQL — for database analytics  
 🧡 Power BI / Excel — for visualization  
